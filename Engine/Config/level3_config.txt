@@ -1,0 +1,30 @@
+# Enemies Configuration
+enemy1_x=195.0
+enemy1_y=152.0
+enemy2_x=5.0
+enemy2_y=56.0
+enemy3_x=17.0
+enemy3_y=414.0
+enemy4_x=554.0
+enemy4_y=418.0
+enemy5_x=504.0
+enemy5_y=252.0
+enemy6_x=9.0
+enemy6_y=224.0
+enemy7_x=376.0
+enemy7_y=415.0
+# Foods Configuration
+food1_x=552.0
+food1_y=52.0
+food2_x=350.0
+food2_y=302.0
+food3_x=73.0
+food3_y=305.0
+food4_x=318.0
+food4_y=156.0
+food5_x=159.0
+food5_y=51.0
+food6_x=267.0
+food6_y=414.0
+food7_x=411.0
+food7_y=302.0
