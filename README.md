@@ -1,6 +1,6 @@
 # GameEngine
 A game engine built with C++, SDL, and python
 ## Engine website
-https://xingmeizhi.github.io/Game_engine_website/
+<a href="https://xingmeizhi.github.io/Game_engine_website/" target="_blank">Engine Website</a>
 ## Engine Documentation
-https://xingmeizhi.github.io/GameEngine-Doc/
+<a href="https://xingmeizhi.github.io/GameEngine-Doc/" target="_blank">Engine Documentation</a>
